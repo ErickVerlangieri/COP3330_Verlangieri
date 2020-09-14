@@ -1,5 +1,5 @@
 public class Decrypter {
-    public static String decrypt(String number){
+    public String decrypt(String number){
 
         String a[] = new String[4];
         int b[] = new int[4];
@@ -25,8 +25,6 @@ public class Decrypter {
         }
 
         String result = String.join("", a);
-
-        System.out.printf("D FINAL!! " + result);
 
         return result;
     }

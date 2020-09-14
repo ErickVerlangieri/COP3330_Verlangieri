@@ -1,5 +1,5 @@
 public class Encrypter  {
-    public static String encrypt(String number){
+    public String encrypt(String number){
 
         String a[] = new String[4];
         int b[] = new int[4];
@@ -25,8 +25,6 @@ public class Encrypter  {
         }
 
         String result = String.join("", a);
-
-        System.out.printf("E FINAL!! " + result + "\n");
 
         return result;
 
