@@ -1,5 +1,9 @@
+
 public class Company {
-    public static void main(String[]args){
-        
+    void test(){
+
+        Encrypter e = new Encrypter();
+        //assertEquals("0189", e.encrypt("1234"));
+
     }
 }
