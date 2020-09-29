@@ -20,5 +20,4 @@ public class BodyMassIndexTest {
         assertEquals("Obesity", category4.response);
 
     }
-
 }

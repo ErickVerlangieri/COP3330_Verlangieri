@@ -101,5 +101,4 @@ public class App {
         System.out.println("Average: " + average);
 
     }
-
 }
