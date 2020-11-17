@@ -189,5 +189,4 @@ public class TaskListTest {
         tasks.add(item);
         assertThrows(IndexOutOfBoundsException.class, () -> tasks.edit(item, 1));
     }
-
 }

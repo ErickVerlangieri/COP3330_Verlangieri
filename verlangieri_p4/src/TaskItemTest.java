@@ -46,13 +46,4 @@ class TaskItemTest {
         TaskItem item = new TaskItem("", "Task1","First Task","2000-04-04");
         assertDoesNotThrow(() -> item.setTitle("Task1"));
     }
-
-
-
-
-
-
-
-
-
 }
