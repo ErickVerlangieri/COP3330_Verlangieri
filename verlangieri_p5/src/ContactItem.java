@@ -46,9 +46,7 @@ public class ContactItem {
 
     /*
     private boolean isEmailValid(String email){
-
         if(!email.equals("")){
-
             for(int i = 0; i < email.length(); i++){
                 if(email.charAt(i) == '@'){
                     for(int j = email.indexOf(email.charAt(i)); j < email.length(); j++){
@@ -56,12 +54,10 @@ public class ContactItem {
                             return true;
                         }
                     }
-
                 }
             }
             return false;
         }
-
         return false;
     }
     */

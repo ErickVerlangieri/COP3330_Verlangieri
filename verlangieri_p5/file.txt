@@ -1,8 +1,0 @@
-Bob
-Jones
-123-456-7890
-bobjones@gmail.com
-John
-Hanks
-345-333-2345
-johnhanks@gmail.com

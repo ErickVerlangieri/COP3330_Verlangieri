@@ -114,7 +114,4 @@ public class ContactListTest {
         assertEquals(contacts2.get(0).getPhone(),contacts.get(0).getPhone());
         assertEquals(contacts2.get(0).getEmail(),contacts.get(0).getEmail());
     }
-
-
-
 }
