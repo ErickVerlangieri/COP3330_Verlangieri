@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class ContactListTest {
 
     @Test
-    public void addingTaskItemsIncreasesSize() {
+    public void addingItemsIncreasesSize() {
         ContactList contacts = new ContactList();
         ContactItem item = new ContactItem("Bob", "Jones","123-456-7890","bobjones@gmail.com");
         contacts.add(item);
